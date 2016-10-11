@@ -21,3 +21,7 @@ line #5 php file:
 define('API_KEY', 'Your api key');
 
 Have a nice coding!
+
+**To use these examples of functions for PHP need install the package libcurl. PHP requires libcurl version 7.10.5 or later.
+More info about libcurl in https://curl.haxx.se/
+
